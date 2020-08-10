@@ -98,11 +98,11 @@ export class ProjectorComponent extends BaseComponent implements OnDestroy {
             height: '0px',
             color: 'black',
             backgroundColor: 'white',
-            H1Color: '#317796'
+            H1Color: '#009ee3'
         },
         headerFooter: {
             color: 'white',
-            backgroundColor: '#317796',
+            backgroundColor: '#009ee3',
             backgroundImage: 'none'
         }
     };
