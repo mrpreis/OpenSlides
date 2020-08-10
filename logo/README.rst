@@ -16,7 +16,7 @@ root directory.
 
 Corporate blue:
  * RGB: 49/119/150
- * Hex: #317796
+ * Hex: #009ee3
 
 Dark blue:
  * RGB: 0/43/66
