@@ -16,7 +16,7 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name="projector",
             name="header_background_color",
-            field=models.CharField(default="#317796", max_length=7),
+            field=models.CharField(default="#009ee3", max_length=7),
         ),
         migrations.AddField(
             model_name="projector",
@@ -26,7 +26,7 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name="projector",
             name="header_h1_color",
-            field=models.CharField(default="#317796", max_length=7),
+            field=models.CharField(default="#009ee3", max_length=7),
         ),
         migrations.AddField(
             model_name="projector",
